@@ -26,4 +26,6 @@ Versatile software engineer. Throughout my professional career I've had the oppo
 
 ---
 
+#### 📂 This is my [resume](resume.pdf) (Last update: 2025-03-12)
+
 Want to talk about tech, games, sports or whatever? You already know where to [find me](https://www.linkedin.com/in/ethielc/) _(at least initially)._
