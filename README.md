@@ -12,7 +12,7 @@ Versatile software engineer. Throughout my professional career I've had the oppo
 - 🚀 **Languages**: Golang | Rustlang | Python | TypeScript
 - 🖼️ **Frameworks**: VueJS | ElectronJS
 - 📚 **Libraries**: ReactJs | Redux | Sagas | React Router
-- 💾 **Databases**: MySQL | Postgres | CockroachDB | Redis
+- 💾 **Databases**: MySQL | PostgreSQL | CockroachDB | Redis
 - ☁️ **Cloud** & **Infra**: Docker | AWS | Huawei
 - 🤷🏼‍♂️ **Other**: Nginx | Grafana | Prometheus | NATS | NodeJs | HTML5 | CSS | LaTeX | Git
 
